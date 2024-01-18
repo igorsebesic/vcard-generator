@@ -28,7 +28,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/vcard-generator.git
+git clone https://github.com/igorsebesic/vcard-generator.git
 
 Navigate to the project directory:
 
